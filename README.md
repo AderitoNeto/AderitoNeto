@@ -52,7 +52,7 @@
 
 <br />
 
-<img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" alt="GIF">
+<img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/synth.gif" alt="GIF">
 
 </details>
 
