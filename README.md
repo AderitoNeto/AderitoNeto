@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/badge/-Website-Purple?style=for-the-badge&logo=Chrome&logoColor=white&link=https://aderitoneto.github.io/)](https://aderitoneto.github.io/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white) ](https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/)
-![Twitter Follow](https://img.shields.io/twitter/follow/L1LNT?color=1DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white) ][instagram]
+![Twitter Follow](https://img.shields.io/twitter/follow/L1LNT?color=1DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)[twitter]
 
 ## I'm a student, Developer, and sometimes a Gamer!
 
