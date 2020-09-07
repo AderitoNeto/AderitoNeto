@@ -39,7 +39,7 @@
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img align="left" src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" alt="GIF">
+<img align="left" src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" height=800 alt="GIF">
 
 <br />
 
