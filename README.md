@@ -7,6 +7,8 @@
 
 ## I'm a student, Developer, and sometimes a Gamer!
 
+<img align="right" src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" width="600px" alt="GIF">
+
 - 🔭 I’m currently working on several [Projects][website]!
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other people to increase my programming skills 
@@ -38,9 +40,6 @@
 [<img align="left" alt="AN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-<img align="left" src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" width="600px" alt="GIF">
 <br />
 
 ---
