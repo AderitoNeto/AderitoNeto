@@ -39,6 +39,8 @@
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/synth.gif" alt="GIF">
+
 <br />
 
 ---
@@ -51,8 +53,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AderitoNeto&hide=TeX&layout=compact&bg_color=DEG,b5ceff,5b00bd&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
 
 <br />
-
-<img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/synth.gif" alt="GIF">
 
 </details>
 
