@@ -13,7 +13,8 @@
 - 🥅 2020 Goals: Contribute more to github 
 - 🎮 Fun fact: I love to paly games and doing tf2 trades 
 
-### 🎧 Spotify Playing 
+### 🎧 Spotify Playing
+
 [![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/dreamsmatter)
 
 ### 🛠 Skills :
@@ -32,13 +33,11 @@
 <br />
 
 ### 🚡 Connect with me :
+
 [<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
 
 <img align="left" src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" alt="GIF">
 
