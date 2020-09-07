@@ -50,7 +50,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AderitoNeto&hide=TeX&layout=compact&bg_color=DEG,b5ceff,5b00bd&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/synth.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" alt="GIF" width="500" height="400">
 
 </details>
 
