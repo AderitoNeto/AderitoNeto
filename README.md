@@ -40,7 +40,7 @@
 [<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/synth.gif" alt="GIF">
+<img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" alt="GIF">
 <br />
 
 ---
