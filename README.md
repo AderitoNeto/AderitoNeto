@@ -7,7 +7,7 @@
 
 ## I'm a student, Developer, and sometimes a Gamer!
 
-<img align="right" src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" width="300px" alt="GIF">
+<img align="right" src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif" width="250px" alt="GIF">
 
 - 🔭 I’m currently working on several [Projects][website]!
 - 🌱 I’m currently trying to learn everything 🤣
