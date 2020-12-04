@@ -11,7 +11,7 @@
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other people to increase my programming skills 
 - 🥅 2020 Goals: Contribute more to github 
-- 🎮 Fun fact: I love to paly games and doing tf2 trades 
+- 🎮 Fun fact: I love to play games and doing tf2 trades 
 
 ### 🎧 Spotify Playing
 
