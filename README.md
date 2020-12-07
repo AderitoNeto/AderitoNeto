@@ -1,4 +1,4 @@
-### Hi there, I'm Adérito Neto <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there, I'm Adérito Neto <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/badge/-Website-Purple?style=for-the-badge&logo=Chrome&logoColor=white&link=https://aderitoneto.github.io/)](https://aderitoneto.github.io/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/)
@@ -13,11 +13,11 @@
 - 🥅 2020 Goals: Contribute more to github 
 - 🎮 Fun fact: I love to play games and doing tf2 trades 
 
-### 🎧 Spotify Playing
+## 🎧 Spotify Playing
 
 [![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/dreamsmatter)
 
-### 🛠 Skills :
+## 🛠 Skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -32,7 +32,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 <br />
 
-### 🚡 Connect with me :
+## 🚡 Connect with me :
 
 [<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
