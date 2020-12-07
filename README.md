@@ -7,10 +7,10 @@
 
 ## I'm a student, Developer, and sometimes a Gamer!
 
-- 🔭 I’m currently working on several [Projects][website]!
-- 🌱 I’m currently trying to learn everything 🤣
+- ⏳ I’m currently working on several [Projects][website]!
+- 💡 I’m currently trying to learn everything to be a great fullstack!
 - 👯 I’m looking to collaborate with other people to increase my programming skills 
-- 🥅 2020 Goals: Contribute more to github 
+- 🥅 2021 Goals: Create a great innovation that will revolutionize the world!
 - 🎮 Fun fact: I love to play games and doing tf2 trades 
 
 ## 🎧 Spotify Playing
