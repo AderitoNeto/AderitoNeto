@@ -29,6 +29,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 <br />
 
+
 ## 🎧 Spotify Playing
 
 [![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/dreamsmatter)
@@ -42,15 +43,17 @@
 [<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 <br />
 
-<h1 align="center">
-  <img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif">
-</h1>
 <details>
   <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="AN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AderitoNeto&theme=synthwave&bg_color=DEG,b5ceff,5b00bd&title_color=ffffff&text_color=a9fef7&icon_color=ce08ff&show_icons=true&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AderitoNeto&hide=TeX&layout=compact&bg_color=DEG,b5ceff,5b00bd&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
+
+
+<h1 align="center">
+  <img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif">
+</h1>
 
 <br />
 
