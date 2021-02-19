@@ -14,10 +14,6 @@
 - 🥅 2021 Goals: Create a great innovation that will revolutionize the world!
 - 🎮 Fun fact: I love to play games and doing tf2 trades!
 
-## 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/dreamsmatter)
-
 ## 🛠 Skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -32,6 +28,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 <br />
+
+## 🎧 Spotify Playing
+
+[![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/dreamsmatter)
+
 
 ## 🚡 Connect with me :
 
