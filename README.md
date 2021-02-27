@@ -46,10 +46,10 @@
 
 ## 🚡 Connect with me :
 
-[<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/web.png"/>][website]
 [<img align="left" alt="AN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>][twitter]
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
-[<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/>][instagram]
 <br />
 
 <h1 align="center">
